@@ -337,6 +337,8 @@ place to understand the underpinnings of the R language.
 The [R FAQ](http://cran.r-project.org/doc/FAQ/R-FAQ.html) is dense and technical
 but it is full of useful information.
 
+**On a side note: http://www.dummies.com/how-to/content/how-to-know-when-to-care-about-warnings-in-r.html is also helpful in determining which errors you have and if it is indeed necessary to Google the error or just double check your code for typing errors. 
+
 ## Asking for help
 
 The key to get help from someone is for them to grasp your problem rapidly. You
